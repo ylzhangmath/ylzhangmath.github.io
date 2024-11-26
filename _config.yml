@@ -2,14 +2,13 @@
 title: Yulin Zhang
 email: yulin.zhang@sjtu.edu.cn
 description: > # this means to ignore newlines until "baseurl:"
-  I am an Assistant Professor in the Department of Political Science at Kenyon College.
-  My research and teaching center on American political institutions with an emphasis on Congress, political parties, interest groups, and the policy process.
+  I am an PhD candidate in the School of Mathematical Sciences and Institute of Natural Sciences, Shanghai Jiao Tong University.
 # baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://zacharymcgee.net" # the base hostname & protocol for your site
+url: "https://yulinzhang.com" # the base hostname & protocol for your site
 googlescholar: https://scholar.google.com/citations?user=wlRQLtwAAAAJ&hl=en
-orcid: https://orcid.org/0000-0002-2462-0269
+# orcid: https://orcid.org/0000-0002-2462-0269
 github_username:  zacmcgee
-permalink: /blog/:year/:month/:title.html
+#permalink: /blog/:year/:month/:title.html
 gems:
   - jekyll-sitemap
 
