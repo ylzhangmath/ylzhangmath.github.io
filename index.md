@@ -9,4 +9,4 @@ My advisors are Prof. Wenjun Ying (SJTU) and Prof. Weizhu Bao (NUS). My research
 
 ### Current status <br>
 
-I am visiting Prof. Weizhu Bao‘s group in the Department of Mathematics, National Univerisity of Singapore from Nov. 2023 to Oct. 2025, under the support of the Chinese Scholar Council (CSC) and Zhiyuan Honors Doctoral Program in SJTU.
+I am visiting Prof. Weizhu Bao‘s group in the Department of Mathematics, National Univerisity of Singapore from Nov. 2023 to Oct. 2025.
