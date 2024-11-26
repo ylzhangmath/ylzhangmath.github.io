@@ -5,8 +5,7 @@ permalink: /publication/
 ---
 ### In Refereed Journals<br>
 
-**Submitted**
-
+### Submitted<br>
 **Accepted**
 
 **Published**
