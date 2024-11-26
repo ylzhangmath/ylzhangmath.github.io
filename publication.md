@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publication
-permalink: /Publication/
+permalink: /publication/
 ---
 Teaching is not only a critical part of scholarly life it is also an amazing opportunity to connect with students about topics I feel passionately about. I have experience both teaching my own classes and assisting in the instruction of a variety of courses taught both traditionally and online. In addition to my work as an instructor and teaching assistant I have also created the instructor's manual for a college-level textbook on the United States Congress. You can find links to my syllabi below.
 
