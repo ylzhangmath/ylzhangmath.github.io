@@ -9,7 +9,7 @@ permalink: /publication/
 
 **Accepted**
 
-[1] *[A stabilized parametric finite element method for surface diffusion with an arbitary surface energy](https://doi.org/10.1016/j.jcp.2024.113605) (with Y. Li and W. Ying), J. Comput. Phys., to appear (arXiv:2404.02083).
+[1] [A stabilized parametric finite element method for surface diffusion with an arbitary surface energy](https://doi.org/10.1016/j.jcp.2024.113605) (with Y. Li and W. Ying), J. Comput. Phys., to appear (arXiv:2404.02083).
 
 **Published**
 
