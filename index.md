@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<img style="width=375px;height=375px;float:left;padding:15px;"
-src="/images/mcgee_headshot_prim_trimmed.jpg" alt="" width="399" height="379">
+#<img style="width=375px;height=375px;float:left;padding:15px;"
+#src="/images/mcgee_headshot_prim_trimmed.jpg" alt="" width="399" height="379">
 
 Welcome to my homepage!
 
