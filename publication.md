@@ -7,7 +7,7 @@ permalink: /publication/
 
 **Submitted**
 
-[2] A locking-free conforming discontinuous Galerkin finite element method for elasticity problems (with F. Huo and W. Mo).
+[2] A locking-free conforming discontinuous Galerkin finite element method for linear elasticity problems (with F. Huo and W. Mo).
 
 **Accepted**
 
