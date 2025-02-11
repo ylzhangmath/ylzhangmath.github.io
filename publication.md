@@ -9,9 +9,9 @@ permalink: /publication/
 
 [3] [A structure-preserving parametric finite element method with optimal energy stability condition for anisotropic surface diffusion](https://arxiv.org/pdf/2501.16660) (with Y. Li and W. Ying), arXiv:2501.16660.
 
-[2] A locking-free conforming discontinuous Galerkin finite element method for linear elasticity problems (with F. Huo and W. Mo).
-
 **Accepted**
+
+[2] A locking-free conforming discontinuous Galerkin finite element method for linear elasticity problems (with F. Huo and W. Mo), J. Comput. Appl. Math., to appear.
 
 **Published**
 
