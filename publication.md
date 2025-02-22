@@ -11,7 +11,6 @@ permalink: /publication/
 
 **Accepted**
 
-
 **Published**
 
 [2] [A locking-free conforming discontinuous Galerkin finite element method for linear elasticity problems](https://doi.org/10.1016/j.cam.2025.116582) (with F. Huo and W. Mo), *J. Comput. Appl. Math.*, **Vol** 465 (2025), article 116582.
