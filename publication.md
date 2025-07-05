@@ -9,7 +9,7 @@ permalink: /publication/
 
 **Accepted**
 
-[3] [A structure-preserving parametric finite element method with optimal energy stability condition for anisotropic surface diffusion](https://arxiv.org/pdf/2501.16660) (with Y. Li and W. Ying), *J. Sci. Comput.*, to appear，(arXiv:2501.16660).
+[3] [A structure-preserving parametric finite element method with optimal energy stability condition for anisotropic surface diffusion](https://arxiv.org/pdf/2501.16660) (with Y. Li and W. Ying), *J. Sci. Comput.*, to appear (arXiv:2501.16660).
 
 **Published**
 
