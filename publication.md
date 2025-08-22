@@ -7,11 +7,11 @@ permalink: /publication/
 
 **Submitted**
 
+[4] [A kernel-free boundary integral method for elliptic interface problems on surfaces](/publications/PFEM-SD-JCP-11-24.pdf) (with P. Yin, W. Ying and H. Zhou).
+
 **Accepted**
 
 **Published**
-
-[4] [A kernel-free boundary integral method for elliptic interface problems on surfaces](/publications/PFEM-SD-JCP-11-24.pdf) (with P. Yin, W. Ying and H. Zhou), submitted.
 
 [3] [A structure-preserving parametric finite element method with optimal energy stability condition for anisotropic surface diffusion](/publications/PFEM-SD-JSC-07-25.pdf) (with Y. Li and W. Ying), *J. Sci. Comput.*, **Vol** 104 (2025), article 76 (arXiv:2501.16660).
 
