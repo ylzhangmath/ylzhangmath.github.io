@@ -7,7 +7,7 @@ permalink: /publication/
 
 **Submitted**
 
-[4] [A kernel-free boundary integral method for elliptic interface problems on surfaces](/publications/PFEM-SD-JCP-11-24.pdf) (with P. Yin, W. Ying and H. Zhou).
+[4] [A kernel-free boundary integral method for elliptic interface problems on surfaces](https://arxiv.org/pdf/2508.16061) (with P. Yin, W. Ying and H. Zhou), arXiv:2508.16061.
 
 **Accepted**
 
