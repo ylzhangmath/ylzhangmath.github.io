@@ -7,11 +7,11 @@ permalink: /publication/
 
 **Submitted**
 
-[5] [A structure-preserving parametric approximation for anisotropic geometric flows via an α-surface energy matrix](https://arxiv.org/pdf/2512.24875) (with W. Bao, Y. Li and W. Ying), arXiv:2512.24875.
-
-[4] [A kernel-free boundary integral method for elliptic interface problems on surfaces](https://arxiv.org/pdf/2508.16061) (with P. Yin, W. Ying and H. Zhou), arXiv:2508.16061.
+[5] [A kernel-free boundary integral method for elliptic interface problems on surfaces](https://arxiv.org/pdf/2508.16061) (with P. Yin, W. Ying and H. Zhou), arXiv:2508.16061.
 
 **Accepted**
+
+[4] [A structure-preserving parametric approximation for anisotropic geometric flows via an α-surface energy matrix](https://arxiv.org/pdf/2512.24875) (with W. Bao, Y. Li and W. Ying), *J. Comput. Phys.*, to appear (arXiv:2512.24875).
 
 **Published**
 
