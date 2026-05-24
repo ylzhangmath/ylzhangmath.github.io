@@ -21,3 +21,6 @@ permalink: /publication/
 
 [1] [A stabilized parametric finite element method for surface diffusion with an arbitrary surface energy](/publications/PFEM-SD-JCP-11-24.pdf) (with Y. Li and W. Ying), *J. Comput. Phys.*, **Vol** 523 (2025), article 113695 (arXiv:2404.02083).
 
+**Doctoral Dissertation**
+
+Structure-preserving parametric finite element methods for extrinsic anisotropic geometric flows (Shanghai, 2026)
