@@ -8,3 +8,5 @@ permalink: /research/
 Computational methods and analysis in geometric flows, solid-state dewetting;
 
 Numerical analysis, scientific computing and applied mathematics in general.
+
+AI4Math, AI4CompMath and AI4ApplMath.
