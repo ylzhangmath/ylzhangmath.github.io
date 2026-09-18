@@ -7,7 +7,7 @@ permalink: /publication/
 
 **Submitted**
 
-[6] [Kernel-free boundary integral method for Allen-Cahn and Cahn-Hilliard equations on irregular domain](/publications/KFBI-SurfPDE-JCP-05-26.pdf) (with X. Liu, W. Ying and P. Yin)
+[6] [Kernel-free boundary integral methods for Allen-Cahn and Cahn-Hilliard equations on irregular domain](/publications/KFBI-SurfPDE-JCP-05-26.pdf) (with X. Liu, W. Ying and P. Yin)
 
 **Accepted**
 
