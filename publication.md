@@ -7,6 +7,8 @@ permalink: /publication/
 
 **Submitted**
 
+[7] [A unified structure-preserving framework for geometric flows with coupled orientation and curvature dependence](https://arxiv.org/pdf/2609.21295).
+
 [6] [Kernel-free boundary integral methods for Allen-Cahn and Cahn-Hilliard equations on irregular domain](https://arxiv.org/pdf/2609.21295) (with X. Liu, W. Ying and P. Yin), arXiv:2609.21295.
 
 **Accepted**
