@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Note
-permalink: /notes/
+permalink: /note/
 ---
 
 Here I share notes on computational mathematics, geometric flows,
