@@ -34,6 +34,6 @@ I received my Ph.D. in Computational Mathematics from the School of Mathematical
 
 My research interests lie at the intersection of numerical analysis, scientific computing, and AI for mathematics, with a particular focus on computational methods and analysis for geometric flows.
 
-Now I prefer to call myself a **vibe-mathematician**, and I'm interested in everything AI4S, AI4Math and AI4CompMath.
+Now I prefer to call myself a **vibe-mathematician**. I'm interested in everything AI4S, AI4Math and AI4CompMath. All my research starting November 2026 rely on AI.
 
 <div style="clear: both;"></div>
